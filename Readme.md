@@ -4,12 +4,15 @@
 
 
 **Attachments with no contents**
+
 ![](/docs/Preview_Attachments_No_Content.png)
 
-**Attachments with show contents**
+**Attachments with show contents** (images do not unfurl / expand inline)
+
 ![](/docs/Preview_Attachments_Show_Content.png)
 
-**No Attachments with show contents**
+**No Attachments with show contents** (images will unfurl / expand inline)
+
 ![](/docs/Preview_No_Attachments_Show_Content.png)
 
 
